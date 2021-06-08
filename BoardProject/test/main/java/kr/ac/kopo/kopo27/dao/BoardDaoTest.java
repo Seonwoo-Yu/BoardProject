@@ -10,6 +10,5 @@ public class BoardDaoTest {
 
 		BoardDao boardDao = new BoardDaoImpl();
 		boardDao.create(board);
-		
 	}
 }

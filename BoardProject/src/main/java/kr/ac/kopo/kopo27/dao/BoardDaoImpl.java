@@ -1,7 +1,6 @@
 package kr.ac.kopo.kopo27.dao;
 
 import java.util.List;
-
 import kr.ac.kopo.kopo27.domain.Board;
 
 public class BoardDaoImpl implements BoardDao {

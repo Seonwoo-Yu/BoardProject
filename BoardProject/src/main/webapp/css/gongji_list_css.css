@@ -1,0 +1,26 @@
+body {
+font-family: 'Noto Sans KR', sans-serif;
+}
+
+table,
+tr,
+td {
+border: 1px solid black;
+border-collapse: collapse;
+}
+
+.header {
+background-color: rgba(134, 234, 241, 0.795);
+}
+
+.header:nth-child(1) {
+width: 100px;
+}
+
+.header:nth-child(2) {
+width: 500px;
+}
+
+.header:nth-child(3) {
+width: 100px;
+}
